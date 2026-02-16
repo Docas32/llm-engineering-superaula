@@ -1,0 +1,24 @@
+# Chaves de API e Variáveis de Ambiente
+.env
+
+# Ambientes Virtuais (Python)
+.venv/
+venv/
+env/
+bin/
+lib/
+share/
+include/
+
+# Cache do Python e Bytecodes
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários do Jupyter e VS Code
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Arquivos de sistema (Linux)
+.DS_Store
